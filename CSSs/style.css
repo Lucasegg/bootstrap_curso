@@ -1,0 +1,49 @@
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fff;
+}
+
+h3{
+    padding-top: 8px;
+    padding-bottom: 5px;
+}
+
+#inicio h3{
+    padding-top: 10px;
+}
+.navbar{
+    background-color: #aaaa;
+        
+}
+
+.inicio{
+    padding-top: 10px;
+    padding-bottom: 8px;
+    background-color: #aaa;
+    
+}
+
+.margin{
+    
+    padding-bottom: 50px;
+}
+
+.quem-somos{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: cadetblue;
+}
+
+.parceiros{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgb(131, 137, 138);
+}
+
+.bg-footer{
+    background-color: #000;
+    color: #aaa;
+    height: 40px;
+    padding-top: 10px;
+}
